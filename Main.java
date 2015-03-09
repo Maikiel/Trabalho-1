@@ -8,5 +8,5 @@ class Main{
 
 		System.out.println("Area do retangulo: " + r.CalcularArea());
 		System.out.println("Perimetro do retangulo: " + r.CalcularPerimetro());
-  }
+	 }
 }
